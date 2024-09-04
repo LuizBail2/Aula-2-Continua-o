@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, san-serif;
+    font-family: Arial;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: aliceblue;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
